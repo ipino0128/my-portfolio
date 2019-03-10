@@ -6,9 +6,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://image.freepik.com/free-photo/close-up-hand-typing-laptop-with-stationeries-coffee-cup-pink-backdrop_23-2147979078.jpg");
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+
+.name{
+  font-family: 'Noto Serif JP', serif;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
 }
