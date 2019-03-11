@@ -8,6 +8,7 @@ const Header = () => {
           I S A B E L L E <br/> P I N O
         </div>
         <button type="button" class="btn btn-outline-dark">About</button>
+        <button type="button" class="btn btn-outline-dark">My Portfolio</button>
     </div>
 
 
