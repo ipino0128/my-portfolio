@@ -2,11 +2,11 @@ import React from 'react'
 
 const Navbar = (props) => {
   return(
-    <div className="NavbarContainer">
-      <nav class="navbar fixed-top navbar-light bg-light">
-        <br/>
-        <button onClick={props.handleAbout} type="button" class="btn btn-light">About</button>
-      </nav>
+    <div>
+        <nav class="navbar fixed-top navbar-light bg-light justify-content-end">
+            <span onClick={props.handleAbout} class="fake-link" id="fake-link-1">About</span>
+            <span onClick={props.handleAbout} class="fake-link" id="fake-link-1">Portfolio</span>
+        </nav>
     </div>
   )
 }

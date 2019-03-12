@@ -50,6 +50,14 @@
   border-color: rgb(51, 50, 57);
 }
 
-.NavbarContainer{
+
+.fake-link {
   font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  cursor: pointer;
+  padding-right: 20px;
+}
+
+.fake-link:hover{
+  color: rgb(247, 218, 229);
 }
