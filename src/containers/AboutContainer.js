@@ -27,6 +27,7 @@ class AboutContainer extends React.Component{
               -Love for fashion and lifestyle. <br/><br/>
               -Past experience in the media industry. <br/><br/>
               </h5>
+              <button type="button" class="btn btn-secondary btn-lg">RESUME</button>
             </div>
           </div>
         </div>
