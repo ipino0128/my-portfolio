@@ -53,7 +53,7 @@
 
 .fake-link {
   font-family: 'Montserrat', sans-serif;
-  font-size: 25px;
+  font-size: 22px;
   cursor: pointer;
   padding-right: 20px;
 }
@@ -61,6 +61,7 @@
 .fake-link:hover{
   color: rgb(247, 218, 229);
 }
+
 
 .portfolio{
     font-family: 'Montserrat', sans-serif;
@@ -92,4 +93,30 @@
       background-image: url("https://musclefuel.co.nz/wp-content/uploads/2017/10/awesome-and-beautiful-white-marble-background-2-minimalist-white-marble-background-with-ideas-inspiration-46042.jpg");
       background-repeat: no-repeat;
       background-size: 100% 100%;
+      text-align: center;
+}
+
+.navbar{
+  margin-bottom: 0px;
+}
+
+.contact a{
+
+  justify-content: center;
+}
+
+
+#pink{
+  background-color: rgb(238, 179, 200);
+  border-color: rgb(238, 179, 200);
+  color: black;
+}
+
+#blue{
+  background-color: rgb(0, 116, 184);
+  border-color: rgb(0, 116, 184);
+}
+#black{
+    background-color: black;
+    border-color: black;
 }

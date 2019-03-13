@@ -45,7 +45,7 @@ class PortfolioContainer extends React.Component{
             <h5> MyTravels </h5>
             <a href="https://github.com/ipino0128/travel-frontend">Github-Frontend </a>|
             <a href="https://github.com/ipino0128/travel-backend"> Github-Backend </a> |
-            <a href="https://www.youtube.com/watch?v=LxWq7OGBpfE"> Video Demo</a>
+            <a href="https://www.youtube.com/watch?v=1MdRcY4bh_M&feature=youtu.be"> Video Demo</a>
             <p> SOLO PROJECT | A platform for users to share travel itineraries.</p>
             <ul>
               <li>

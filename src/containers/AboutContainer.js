@@ -25,9 +25,16 @@ class AboutContainer extends React.Component{
               -Strong financial and international business skills that help companies drive their goals and profits. <br/><br/>
               -Trilingual in English, Spanish & French. <br/><br/>
               -Love for fashion and lifestyle. <br/><br/>
-              -Past experience in the media industry. <br/><br/>
+              -Past experience in the media industry. <br/><br/><br/>
               </h5>
-              <button type="button" class="btn btn-secondary btn-lg">RESUME</button>
+              <button type="button" class="btn btn-secondary btn-lg" data-toggle="modal" data-target=".bd-example-modal-lg">Check out my resume!</button>
+              <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                  <div class="modal-content">
+                    <img src="Resume.png"/>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
