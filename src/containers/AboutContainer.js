@@ -20,7 +20,7 @@ class AboutContainer extends React.Component{
             <div className="col">
             <h3> Who am I? </h3><br/>
               <h5>
-              - A Miami Native based in NYC. <br/><br/>
+              - Miami Native based in NYC. <br/><br/>
               - Full-stack web developer with a passion for entrepreneurship, creativity and analytical thinking. <br/><br/>
               -Strong financial and international business skills that help companies drive their goals and profits. <br/><br/>
               -Trilingual in English, Spanish & French. <br/><br/>
