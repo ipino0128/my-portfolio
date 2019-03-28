@@ -24,7 +24,7 @@ class AboutContainer extends React.Component{
               - Full-stack web developer with a passion for entrepreneurship, creativity and analytical thinking. <br/><br/>
               -Strong financial and international business skills that help companies drive their goals and profits. <br/><br/>
               -Trilingual in English, Spanish & French. <br/><br/>
-              -Love for fashion and lifestyle. <br/><br/>
+              -Love for helping others, music, fashion and lifestyle. <br/><br/>
               -Past experience in the media industry. <br/><br/><br/>
               </h5>
               <button type="button" class="btn btn-secondary btn-lg" data-toggle="modal" data-target=".bd-example-modal-lg">Check out my resume!</button>

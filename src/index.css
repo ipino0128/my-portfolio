@@ -1,7 +1,6 @@
 
 .Header{
   width: 100%;
-  /* background-color: rgb(251, 222, 233); */
   background-image: url("https://musclefuel.co.nz/wp-content/uploads/2017/10/awesome-and-beautiful-white-marble-background-2-minimalist-white-marble-background-with-ideas-inspiration-46042.jpg");
   background-repeat: no-repeat;
      background-size: 100% 100%;
@@ -10,7 +9,6 @@
 .HeaderContainer{
   position: relative;
   text-align: center;
-  /* background-color: rgb(251, 222, 233); */
   height:100vh;
   width: 100%;
   margin: 0 auto;
